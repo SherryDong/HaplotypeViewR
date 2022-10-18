@@ -1,5 +1,7 @@
 # HaplotypeViewR
 R functions to deal with haplotype results. Check analysis.R to find usage
+# Required: 
+R Package NetBID2
 
 # demo figures:
 
